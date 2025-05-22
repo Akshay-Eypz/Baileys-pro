@@ -1,4 +1,10 @@
-<h1><img alt="Baileys logo" src="https://raw.githubusercontent.com/WhiskeySockets/Baileys/refs/heads/master/Media/logo.png" height="75"/></h1>
+#<div align='center'>WhatsApp Web API</div>
+
+<div align='center'>
+
+![WhatsApp API](https://raw.githubusercontent.com/Bell575/Upload/main/uploads/1742387351904.png)
+
+</div>
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40whiskeysockets%2Fbaileys?label=npm&color=%23CB3837)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/whiskeysockets/baileys)
@@ -43,7 +49,7 @@ yarn add baileys
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:Akshay-Eypz/Baileys
+yarn add github:Akshay-Eypz/Baileys-pro
 ```
 
 Then import the default function in your code:
